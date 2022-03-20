@@ -18,17 +18,7 @@ class CreateTrainsTable extends Migration
             $table->timestamps();
         });
     }
-    /* 
-Azienda
-Stazione di partenza
-Stazione di arrivo
-Orario di partenza
-Orario di arrivo
-Codice Treno Numero
-Carrozze
-In orario
-Cancellato
- */
+
 
     /**
      * Reverse the migrations.
